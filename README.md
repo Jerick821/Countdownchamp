@@ -11,3 +11,5 @@ This is a React App that lets a user know how much time there is up until a sign
 -then to test
 
   npm start 
+  
+  load http://localhost:3000/
